@@ -5,3 +5,5 @@ Taobao SDK для 1С
 Реализован транспорт
 
 Используется https://github.com/vbondarevsky/Connector
+
+Ссылка на публикацию https://infostart.ru/1c/articles/1254959/
