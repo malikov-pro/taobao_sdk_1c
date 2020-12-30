@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
 	<ConfigVersions>
 		<Metadata name="CommonModule.tb_КоннекторHTTP" id="3af1c454-975b-418d-acb0-21265b170cdc" configVersion="ac590d2aaf2522141ff7244460fd72822d54ac6b"/>
 		<Metadata name="CommonModule.tb_КоннекторHTTP.Module" id="3af1c454-975b-418d-acb0-21265b170cdc.0" configVersion="007060caea7bb542106467abc65c8beabfd8e3c1"/>
@@ -8,7 +8,7 @@
 		<Metadata name="CommonModule.tb_Транспорт" id="dcc9c73b-807b-4cde-b74b-373de1640c1a" configVersion="97d39962ac702923465d051824690999cf550792"/>
 		<Metadata name="CommonModule.tb_Транспорт.Module" id="dcc9c73b-807b-4cde-b74b-373de1640c1a.0" configVersion="91766d438ee8565138e702981b4f375be49e61e5"/>
 		<Metadata name="CommonModule.tb_Функции" id="e7a9ac44-e3d8-4f9f-babe-db8ac5856319" configVersion="763bceb0003fd415765eee7e1e16f836c84fe03a"/>
-		<Metadata name="CommonModule.tb_Функции.Module" id="e7a9ac44-e3d8-4f9f-babe-db8ac5856319.0" configVersion="1a5fcbd0ad10d4d76246017535bf9a074a3b47a9"/>
+		<Metadata name="CommonModule.tb_Функции.Module" id="e7a9ac44-e3d8-4f9f-babe-db8ac5856319.0" configVersion="5abb11a359d5f2bc0d1acbd29de957490e3e3a32"/>
 		<Metadata name="Configuration.Taobao_SDK" id="3e835949-32be-4f9b-9a59-358121bab2b1" configVersion="a717bd19f08ad0a17d46ef7fb6b29ac0c7c6196e"/>
 		<Metadata name="Language.Русский" id="d361693f-55e2-4caf-b863-a0ad1af64978" configVersion="9e0ea2eed21e4d34a048f6dd34eb172b7de7a74b"/>
 		<Metadata name="Subsystem.tb_ОсновнаяПодсистема" id="d80226c7-c434-44a8-9692-3c1a24817cde" configVersion="55f4428cafb1145d08da60caa30bca6448b515b9"/>
